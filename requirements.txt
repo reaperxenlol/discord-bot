@@ -1,3 +1,2 @@
-discord.py==2.4.0
+discord.py==2.3.1
 python-dotenv==1.0.0
-audioop-lrs==0.1.9
